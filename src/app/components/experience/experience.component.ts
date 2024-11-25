@@ -11,10 +11,10 @@ import {MatChipsModule} from '@angular/material/chips';
   changeDetection: ChangeDetectionStrategy.OnPush
 })
 export class ExperienceComponent {
-  westerosText = `Es un mundo donde tienes al alcance toda la información respecto a la famosa serie "Game of thrones", sus precuelas y secuelas, incluso encontraras algún dragón volando por el sitio. Se encarga de realizar consultas a 2(dos) API'S distintas para obtener toda la información. Desarrollado usando:`;
+  westerosText = `Es un mundo donde tienes al alcance toda la información sobre la famosa serie Game of Thrones, sus precuelas y secuelas; incluso encontrarás algún dragón volando por el sitio. El sistema realiza consultas a dos (2) APIs distintas para obtener toda la información. Desarrollado usando:`;
   
-  btfxText = `La función del sitio es que permita a diferentes organismos de competición para ciclistas, tener acceso a un sistema, facil e intuitivo, donde poder inscribirse en pruebas ciclistas de todo tipo y que además, deje ver clasificaciones de todos los competidores registrados. Desarrollado usando: `;
+  btfxText = `La función del sitio es permitir que diferentes organismos de competición para ciclistas tengan acceso a un sistema fácil e intuitivo donde puedan inscribirse en pruebas ciclistas de todo tipo y, además, consultar las clasificaciones de todos los competidores registrados. Desarrollado usando:`;
   
-  cotcripText = `Una SPA para obtener la información de las criptomonedas más buscadas en pocos clicks, usando la API de cryptocompare.com`;
+  cotcripText = `Una SPA diseñada para obtener información sobre las criptomonedas más buscadas en pocos clics, utilizando la API de cryptocompare.com`;
 
 }
