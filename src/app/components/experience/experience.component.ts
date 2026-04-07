@@ -21,6 +21,11 @@ export class ExperienceComponent {
   
   btfxText = `La función del sitio es permitir que diferentes organismos de competición para ciclistas tengan acceso a un sistema fácil e intuitivo donde puedan inscribirse en pruebas ciclistas de todo tipo y, además, consultar las clasificaciones de todos los competidores registrados. Desarrollado usando:`;
   
-  cotcripText = `Una SPA diseñada para obtener información sobre las criptomonedas más buscadas en pocos clics, utilizando la API de cryptocompare.com`;
+  passgenText = `PassGen es una aplicación frontend desarrollada para generar contraseñas seguras de forma rápida y configurable.
+
+El objetivo principal es ofrecer una herramienta ligera, intuitiva y eficiente que permita a cualquier usuario mejorar su seguridad digital sin fricción.
+
+Este proyecto refleja buenas prácticas en desarrollo frontend moderno, incluyendo arquitectura limpia, diseño responsive y experiencia de usuario optimi
+ zada.`;
 
 }
