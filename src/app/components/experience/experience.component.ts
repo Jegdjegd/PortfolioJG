@@ -23,9 +23,21 @@ export class ExperienceComponent {
   
   passgenText = `PassGen es una aplicación frontend desarrollada para generar contraseñas seguras de forma rápida y configurable.
 
-El objetivo principal es ofrecer una herramienta ligera, intuitiva y eficiente que permita a cualquier usuario mejorar su seguridad digital sin fricción.
+  El objetivo principal es ofrecer una herramienta ligera, intuitiva y eficiente que permita a cualquier usuario mejorar su seguridad digital sin fricción.
 
-Este proyecto refleja buenas prácticas en desarrollo frontend moderno, incluyendo arquitectura limpia, diseño responsive y experiencia de usuario optimi
- zada.`;
+  Este proyecto refleja buenas prácticas en desarrollo frontend moderno, incluyendo arquitectura limpia, diseño responsive y experiencia de usuario optimi
+  zada.`;
+
+
+  clockTeamText = `Clock-Team es una aplicación web diseñada para dispositivos móviles y equipos distribuidos. Elimina la complejidad de los cálculos de zonas horarias al proporcionar un panel de control, de inspiración ciberpunk, donde puedes ver la hora local, la ubicación y el rol de todo tu equipo.
+
+✨ Características principales
+    Interfaz dinámica: Los elementos cobran vida y se mueven gracias a animaciones basadas en la física, impulsadas por Framer Motion.
+
+    Panel de control optimizado para móviles: Navegación inferior altamente optimizada para un acceso rápido a Orbit, Equipo, Búsqueda y Perfiles de usuario.
+
+    Tecnología moderna: Aprovecha la velocidad extrema de Vite y el nuevo motor CSS-first de Tailwind v4.
+
+    🚀 Inicio rápido`;
 
 }
